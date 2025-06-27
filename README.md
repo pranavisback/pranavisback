@@ -20,13 +20,9 @@ I love solving real-world problems through code, building scalable solutions, an
   <a href="https://github.com/pranavisback">
     <img src="https://github-readme-stats.vercel.app/api?username=pranavisback&show_icons=true&theme=tokyonight&count_private=true" alt="Pranav's GitHub Stats"/>
   </a>
-  <br/>
+  <br><br>
   <a href="https://github.com/pranavisback">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavisback&theme=tokyonight" alt="Top Languages"/>
-  </a>
-  <br/>
-  <a href="https://github.com/pranavisback">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavisback&theme=tokyonight" alt="GitHub Streak"/>
   </a>
 </div>
 
