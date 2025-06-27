@@ -17,11 +17,16 @@ I love solving real-world problems through code, building scalable solutions, an
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/pranavisback ">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranavisback&count_private=true&show_icons=true&theme=radical" alt="Total Projects"/>
+  <a href="https://github.com/pranavisback">
+    <img src="https://github-readme-stats.vercel.app/api?username=pranavisback&show_icons=true&theme=tokyonight&count_private=true" alt="Pranav's GitHub Stats"/>
   </a>
-  <a href=" https://github.com/pranavisback ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavisback&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <br/>
+  <a href="https://github.com/pranavisback">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavisback&theme=tokyonight" alt="Top Languages"/>
+  </a>
+  <br/>
+  <a href="https://github.com/pranavisback">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavisback&theme=tokyonight" alt="GitHub Streak"/>
   </a>
 </div>
 
