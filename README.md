@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pranav Dhondiram Pawar!
 
-🎓 Final Year B.Tech CSE (AI & Analytics) | MIT Academy of Engineering  
+🎓 Final Year B.Tech CSE (AI & Analytics) | MIT ADT University 
 
 </div>
 
